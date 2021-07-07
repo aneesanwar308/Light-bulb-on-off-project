@@ -1,0 +1,17 @@
+.bulbstyle{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.buttonstyle{
+    margin-top: 30px;
+    margin-left: 330px;
+    padding: 20px 50px;
+    border: none;
+    border-radius: 40px;
+    background: blue;
+    color: red;
+}
+.lighton{
+    margin-right: 100px;
+}
